@@ -1,0 +1,14 @@
+{
+    "name": "socket",
+    "version": "1.0.0",
+    "main": "index.ts",
+    "license": "MIT",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "npx nodemon index.ts"
+    },
+    "dependencies": {
+        "nodemon": "^2.0.16",
+        "socket.io": "^4.5.0"
+    }
+}
